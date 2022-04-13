@@ -1,1 +1,1 @@
-# Android-Temp-Converter-Kotlin-App
+Android-Tip-Calculator-Kotlin-App
